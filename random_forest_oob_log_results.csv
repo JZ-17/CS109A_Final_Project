@@ -1,0 +1,17 @@
+Combination,Log_X,Log_Y,OOB R²,RMSE,R²
+"{'interaction_terms': False, 'include_property_type': False}",False,False,0.3364793794016251,0.2888171381023753,0.9165846607383534
+"{'interaction_terms': False, 'include_property_type': False}",True,False,0.31910802275046357,0.29248137868389557,0.9144546431231677
+"{'interaction_terms': False, 'include_property_type': False}",False,True,0.538796609761742,0.3894777684297192,0.848307067899006
+"{'interaction_terms': False, 'include_property_type': False}",True,True,0.5372514674690338,0.39986838417054643,0.8401052753408363
+"{'interaction_terms': True, 'include_property_type': False}",False,False,0.29152336774305787,0.29855209766924157,0.9108666449772956
+"{'interaction_terms': True, 'include_property_type': False}",True,False,0.3020036958618715,0.29616393235648675,0.9122869251711423
+"{'interaction_terms': True, 'include_property_type': False}",False,True,0.5174619758040717,0.4133265368367415,0.8291611739465458
+"{'interaction_terms': True, 'include_property_type': False}",True,True,0.5232993929466875,0.40403793863116744,0.836753344146677
+"{'interaction_terms': False, 'include_property_type': True}",False,False,0.4440933290445028,0.25970672932440936,0.9325524147436179
+"{'interaction_terms': False, 'include_property_type': True}",True,False,0.453242692499895,0.25803218169004427,0.933419393212276
+"{'interaction_terms': False, 'include_property_type': True}",False,True,0.6856222968743622,0.3571046630235565,0.8724762596468322
+"{'interaction_terms': False, 'include_property_type': True}",True,True,0.682033690328909,0.36394175234177323,0.8675464009023994
+"{'interaction_terms': True, 'include_property_type': True}",False,False,0.4520462800489293,0.2588260323581621,0.9330090849737316
+"{'interaction_terms': True, 'include_property_type': True}",True,False,0.4325113257410257,0.26446248712924514,0.9300595929014138
+"{'interaction_terms': True, 'include_property_type': True}",False,True,0.6789183019192561,0.3674109770883324,0.8650091739149969
+"{'interaction_terms': True, 'include_property_type': True}",True,True,0.6716385999814023,0.3692440957443477,0.8636587977579391
